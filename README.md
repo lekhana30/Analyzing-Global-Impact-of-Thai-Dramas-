@@ -1,6 +1,6 @@
 # Analyzing Global Impact of Thai Dramas
 
-## 🔍 Project Overview  
+## Project Overview  
 This project explores how Thai dramas have gained popularity globally and regionally over the past 5 years. Using **real Google Trends data**, it analyzes patterns in search interest, particularly in **India**, to understand cultural reach and regional fandom growth.
 
 ---
@@ -22,7 +22,6 @@ This project explores how Thai dramas have gained popularity globally and region
 - Excel – For formatting and regional comparisons  
 - Python (Pandas, Matplotlib) – For analysis and visual plots  
 - Tableau – For interactive dashboards  
-- PowerPoint – For summarizing findings
 
 ---
 
