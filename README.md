@@ -41,14 +41,3 @@ This project explores how Thai dramas have gained popularity globally and region
 
 ## Why It Matters  
 This project highlights how niche entertainment can cross borders and influence regional media trends. The insights could benefit content creators, streaming platforms, and marketers exploring Southeast Asian media’s global potential.
-
-
-
-
----
-
-## 📌 Tags  
-`#GoogleTrends` `#BLDramaAnalysis` `#ThaiBL` `#RegionalMedia` `#Python` `#Tableau` `#CulturalTrends` `#India`
-
-
-
