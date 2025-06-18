@@ -11,7 +11,7 @@ This project explores how Thai dramas have gained popularity globally and region
 - **Time Period**: 2019–2024  
 - **Regions Covered**: Global + Indian states  
 - **Data Includes**:
-  - Search interest for top Thai BL shows (e.g., *2gether*, *TharnType*, *KinnPorsche*)  
+  - Search interest for top Thai shows (e.g., *2gether*, *TharnType*, *KinnPorsche*)  
   - Regional breakdown of popularity  
   - Yearly and monthly trend patterns
 
@@ -28,7 +28,7 @@ This project explores how Thai dramas have gained popularity globally and region
 ##  Key Insights  
 -  Surge in global search interest after 2020 (*2gether* release)  
 -  Countries like the Philippines, India, and the U.S. showed strong engagement  
--  Indian states like Tamil Nadu, Maharashtra, and Kerala were most active  
+-  Indian north east states and south states like Kerala, Karnataka, Tamilnadu were most active  
 -  Regional search peaks aligned with major drama releases  
 -  Emotional storytelling and relatable themes drive long-term popularity
 
@@ -37,9 +37,9 @@ This project explores how Thai dramas have gained popularity globally and region
 ##  Dashboard  
 [🔗 Click here to view the Tableau Dashboard](https://public.tableau.com/app/profile/lekhana.s1303/viz/AnalyzingGlobalImpactofThaiDramas/Main)
 
-<img src="/images/thai_dashboard_1.png" width="600"/>
-<img src="/images/thai_dashboard_2.png" width="600"/>
-<img src="/images/thai_dashboard_3.png" width="600"/>
+<img src="/images/thai_dashboard_1.png" width="800"/>
+<img src="/images/thai_dashboard_2.png" width="800"/>
+<img src="/images/thai_dashboard_3.png" width="800"/>
 
 
 
