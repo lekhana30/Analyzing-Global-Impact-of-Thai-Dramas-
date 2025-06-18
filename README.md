@@ -27,7 +27,7 @@ This project explores how Thai dramas have gained popularity globally and region
 
 ##  Key Insights  
 -  Surge in global search interest after 2020 (*2gether* release)  
--  Countries like the Philippines, India, and the U.S. showed strong engagement  
+-  Countries like the Myanmar, Philippines, India, and the Vietnam showed strong engagement  
 -  Indian north east states and south states like Kerala, Karnataka, Tamilnadu were most active  
 -  Regional search peaks aligned with major drama releases  
 -  Emotional storytelling and relatable themes drive long-term popularity
