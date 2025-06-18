@@ -37,7 +37,7 @@ This project explores how Thai dramas have gained popularity globally and region
 ##  Dashboard  
 [🔗 Click here to view the Tableau Dashboard](https://public.tableau.com/app/profile/lekhana.s1303/viz/AnalyzingGlobalImpactofThaiDramas/Main)
 
-<img src="/image/thai_dashboard_1.png" width="400"/>
+<img src="/images/thai_dashboard_1.png" width="400"/>
 
 
 
