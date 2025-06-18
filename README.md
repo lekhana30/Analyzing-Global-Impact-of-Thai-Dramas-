@@ -8,7 +8,7 @@ This project explores how Thai dramas have gained popularity globally and region
 ## Dataset  
 - **Source**: Google Trends  
 - **Type**: Real-world search score data  
-- **Time Period**: 2019–2024  
+- **Time Period**: 2020–2025 
 - **Regions Covered**: Global + Indian states  
 - **Data Includes**:
   - Search interest for top Thai shows (e.g., *2gether*, *TharnType*, *KinnPorsche*)  
